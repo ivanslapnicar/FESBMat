@@ -1,2 +1,3 @@
 # FESBMat
-Julia notebooks za matem,atičke predmete na FESB-u
+Julia notebooks za matematičke predmete na [FESB-u](https://www.fesb.hr)
+
