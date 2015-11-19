@@ -13,7 +13,7 @@ Bilježnice su označene po predmetima:
 Materijali su pisani kao [IPython](http://ipython.org/) ([IJulia](https://github.com/JuliaLang/IJulia.jl)) bilježnice (notebooks). Bilježnice možete korsititi na tri načina:
 
 * pregledavanje pomoću [IPython notebook viewer-a](http://nbviewer.ipython.org/):
-    > [pregled](http://nbviewer.ipython.org/url/github.com/ivanslapnicar/FESBMat/blob/master/src/)
+    > [pregled](http://nbviewer.ipython.org/url/github.com/ivanslapnicar/FESBMat/tree/master/src/)
 
 * preuzmite bilježnice na svoje računalo pomoću naredbe
 ```
