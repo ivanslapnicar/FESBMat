@@ -1,3 +1,10 @@
+## These notebooks are OBSOLETE. Please check
+
+[Numerical analysis](https://github.com/ivanslapnicar/Numericka_analiza) and 
+[Applied Math](https://github.com/ivanslapnicar/Matematika-posebna_poglavlja).
+
+
+
 # FESBMat
 
 Jupyter bilježnice matematičkih predmeta na [FESB-u](https://www.fesb.unist.hr/).
